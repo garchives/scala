@@ -1,5 +1,5 @@
 {
-  "title": "《GitBook Template》",
+  "title": "《Scala 知识库》",
   "description": "描述",
   "language": "zh-hans",
   "author": "Jins Yin",
@@ -34,10 +34,10 @@
   ],
   "pluginsConfig": {
     "github": {
-      "url": "https://github.com/jinsyin/gitbook-template"
+      "url": "https://github.com/jinsyin/scala"
     },
     "github-buttons": {
-      "repo": "jinsyin/gitbook-template",
+      "repo": "jinsyin/scala",
       "types": [
         "star"
       ],
@@ -47,12 +47,12 @@
       "token": "UA-12345678-1"
     },
     "edit-link": {
-      "base": "https://github.com/jinsyin/gitbook-template/blob/master/",
+      "base": "https://github.com/jinsyin/scala/blob/master/",
       "label": "编辑"
     },
     "favicon": "favicon.ico",
     "sitemap-general": {
-      "prefix": "https://githome.io/gitbook-template/"
+      "prefix": "https://githome.io/scala/"
     },
     "page-toc": {
       "selector": ".markdown-section h2, .markdown-section h3, .markdown-section h4",
